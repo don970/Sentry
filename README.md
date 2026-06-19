@@ -1,4 +1,4 @@
-###Coming Soon:
+### Coming Soon:
 
 <p align="center">
   <img src="./sentry_concept_logo.png" alt="Sentry Logo" width="220" />
